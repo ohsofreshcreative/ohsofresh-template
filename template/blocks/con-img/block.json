@@ -1,0 +1,13 @@
+{
+    "name": "acf/con-img",
+    "title": "Treść/Zdjęcie",
+    "description": "con-img",
+    "category": "_con",
+    "icon": "align-pull-right",
+    "keywords": ["con-img", "header"],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "con-img.php"
+    },
+    "align": "full"
+}

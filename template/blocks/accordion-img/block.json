@@ -1,0 +1,13 @@
+{
+    "name": "acf/accordion-img",
+    "title": "Treść • Rozwijane panele/Zdjęcie",
+    "description": "accordion-img",
+    "category": "_con",
+    "icon": "align-pull-right",
+    "keywords": ["accordion-img", "header"],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "accordion-img.php"
+    },
+    "align": "full"
+}

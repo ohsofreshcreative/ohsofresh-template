@@ -1,0 +1,13 @@
+{
+    "name": "acf/contact",
+    "title": "Kontakt / Formularz",
+    "description": "contact",
+    "category": "_projekt",
+    "icon": "email-alt",
+    "keywords": ["contact", "header"],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "contact.php"
+    },
+    "align": "full"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "acf/hero-video-bg",
+    "title": "Hero - Wideo w tle",
+    "description": "hero-video-bg",
+    "style": [ "file:./hero-video-bg.css" ],
+    "category": "_projekt",
+    "icon": "cover-image",
+    "keywords": ["hero-video-bg", "header"],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "hero-video-bg.php"
+    },
+    "align": "full"
+}

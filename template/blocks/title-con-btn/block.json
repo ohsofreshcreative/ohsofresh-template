@@ -1,0 +1,13 @@
+{
+    "name": "acf/title-con-btn",
+    "title": "Nagłówek • Treść • Przycisk",
+    "description": "title-con-btn",
+    "category": "_con",
+    "icon": "media-text",
+    "keywords": ["title-con-btn", "header"],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "title-con-btn.php"
+    },
+    "align": "full"
+}

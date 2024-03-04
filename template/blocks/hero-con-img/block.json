@@ -1,0 +1,13 @@
+{
+    "name": "acf/hero-con-img",
+    "title": "Hero - Treść/Zdjęcie",
+    "description": "hero-con-img",
+    "category": "_projekt",
+    "icon": "align-pull-left",
+    "keywords": ["hero-con-img", "header"],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "hero-con-img.php"
+    },
+    "align": "full"
+}

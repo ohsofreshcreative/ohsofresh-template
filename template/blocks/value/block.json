@@ -1,0 +1,14 @@
+{
+    "name": "acf/value",
+    "title": "Propozycja wartości • 4 kafelki",
+    "description": "value",
+    "style": [ "file:./value.css" ],
+    "category": "_projekt",
+    "icon": "grid-view",
+    "keywords": ["value", "header"],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "value.php"
+    },
+    "align": "full"
+}

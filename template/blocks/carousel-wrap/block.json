@@ -1,0 +1,13 @@
+{
+    "name": "acf/carousel-wrap",
+    "title": "Slider - Nagłówek • Kafelki",
+    "description": "carousel-wrap",
+    "category": "_media",
+    "icon": "columns",
+    "keywords": ["carousel-wrap", "header"],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "carousel-wrap.php"
+    },
+    "align": "full"
+}

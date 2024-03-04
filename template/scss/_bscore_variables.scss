@@ -1,0 +1,11 @@
+// In this file you can override the default variables of Bootstrap
+// Do you want primary to be green? Just add "$primary: #00FF00;" to this file and the theme will automatically compile the scss for you.
+
+.container {
+      max-width: 100% !important;
+      padding:0 !important;
+}
+
+.bg-body-tertiary {
+      background-color: transparent !important;
+}

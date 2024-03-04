@@ -1,0 +1,13 @@
+{
+    "name": "acf/textarea",
+    "title": "Treść",
+    "description": "textarea",
+    "category": "_tekst",
+    "icon": "media-text",
+    "keywords": ["textarea", "header"],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "textarea.php"
+    },
+    "align": "full"
+}

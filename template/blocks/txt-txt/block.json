@@ -1,0 +1,13 @@
+{
+    "name": "acf/txt-txt",
+    "title": "Tekst / Tekst",
+    "description": "txt-txt",
+    "category": "_tekst",
+    "icon": "media-text",
+    "keywords": ["txt-txt", "header"],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "txt-txt.php"
+    },
+    "align": "full"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "acf/gallery",
+    "title": "Galeria • Kafelki",
+    "description": "gallery",
+    "style": [ "file:./gallery.css" ],
+    "category": "_media",
+    "icon": "format-gallery",
+    "keywords": ["gallery", "header"],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "gallery.php"
+    },
+    "align": "full"
+}

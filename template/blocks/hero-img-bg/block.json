@@ -1,0 +1,13 @@
+{
+    "name": "acf/hero-img-bg",
+    "title": "Hero - Zdjęcie w tle",
+    "description": "hero-img-bg",
+    "category": "_projekt",
+    "icon": "welcome-view-site",
+    "keywords": ["image", "header"],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "hero-img-bg.php"
+    },
+    "align": "full"
+}

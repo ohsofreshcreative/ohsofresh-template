@@ -1,0 +1,14 @@
+{
+    "name": "acf/carousel",
+    "title": "Slider - Kafelki",
+    "description": "carousel",
+    "style": [ "file:./carousel.css" ],
+    "category": "_media",
+    "icon": "columns",
+    "keywords": ["carousel", "header"],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "carousel.php"
+    },
+    "align": "full"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "acf/button",
+    "title": "Przycisk",
+    "description": "button",
+    "category": "_projekt",
+    "icon": "admin-links",
+    "keywords": ["button", "header"],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "button.php"
+    },
+
+    "supports": {
+        "align": true
+    }
+}

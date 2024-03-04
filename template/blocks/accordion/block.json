@@ -1,0 +1,16 @@
+{
+    "name": "acf/accordion",
+    "title": "Rozwijane panele",
+    "description": "accordion",
+    "category": "_media",
+    "icon": "align-wide",
+    "keywords": ["accordion", "header"],
+    "acf": {
+        "mode": "edit",
+        "renderTemplate": "accordion.php"
+    },
+
+    "supports": {
+        "align": true
+    }
+}
